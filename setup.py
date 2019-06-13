@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='sort_tracker',
+    name='sorttracker',
     description='SORT object tracker',
-    version='0.11',
+    version='0.11.1',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
